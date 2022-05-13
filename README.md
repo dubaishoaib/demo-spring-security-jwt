@@ -23,3 +23,13 @@ The following guides illustrate how to use some features concretely:
 * [Spring Boot and OAuth2](https://spring.io/guides/tutorials/spring-boot-oauth2/)
 * [Authenticating a User with LDAP](https://spring.io/guides/gs/authenticating-ldap/)
 
+## Spring Security Architecture
+![](/docs/spring-jwt-1.jpg?raw=true "Spring Security Architecture")
+
+![](/docs/spring-jwt-2.jpg?raw=true "Spring Security Architecture")
+
+![](/docs/spring-jwt-3.jpg?raw=true "Spring Security Architecture")
+
+![](/docs/spring-jwt-4.jpg?raw=true "Spring Security Architecture")
+
+![](/docs/spring-jwt-5.jpg?raw=true "Spring Security Architecture")
